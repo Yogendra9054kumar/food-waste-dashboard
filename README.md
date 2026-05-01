@@ -29,3 +29,7 @@ Libraries: Pandas, MySQL Connector
 - Claim status distribution
 - City-wise food availability
 
+## 🎥 Code Video Explanation
+Watch the full working explanation here:
+🔗 https://www.linkedin.com/posts/yogendra-kumar-5a4a16298_github-yogendra9054kumarfood-waste-dashboard-share-7452334169881350144-8vqJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgNtMwBtWKNOyDa2vSch0rC2u8OJ9XBgug
+
