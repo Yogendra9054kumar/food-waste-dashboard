@@ -31,5 +31,7 @@ Libraries: Pandas, MySQL Connector
 
 ## Full Working Project
 Watch the full working explanation here:
-🔗 https://www.linkedin.com/posts/yogendra-kumar-5a4a16298_github-yogendra9054kumarfood-waste-dashboard-share-7452334169881350144-8vqJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgNtMwBtWKNOyDa2vSch0rC2u8OJ9XBgug
+  🔗 Linkedin : https://www.linkedin.com/posts/yogendra-kumar-5a4a16298_github-yogendra9054kumarfood-waste-dashboard-share-7452334169881350144-8vqJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgNtMwBtWKNOyDa2vSch0rC2u8OJ9XBgug 
+
+🔗 Streamlit :  https://food-waste-dashboardgit-044.streamlit.app/
 
